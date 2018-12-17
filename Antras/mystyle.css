@@ -1,0 +1,36 @@
+.antraste {
+	font-size: 150%;
+	color: navy;
+	text-align: center;
+}
+body {
+  background-image: url("back2.jpg");
+  background-repeat:;
+} 
+table, td {
+	border: 1px dashed black ;
+	width: 200px;
+}
+table {
+	margin: auto;
+	width: 50%;
+	
+}
+.pirma {
+	background-color: white;
+	height: 125px;
+	vertical-align:center;
+	text-align:center;
+}
+a:link {
+    text-decoration: none;
+	font-size: 150%;
+	color:navy;
+}
+a:hover {
+    color: hotpink;
+	backround-color:navy;
+}
+#autorius{
+text-align:right;
+}
